@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8b1b896-c101-4b43-ac08-00fdbfaee3a1" name="Changes" comment="icon">
+    <list default="true" id="b8b1b896-c101-4b43-ac08-00fdbfaee3a1" name="Changes" comment="關於與經歷">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -50,7 +50,7 @@
       <workItem from="1681133143261" duration="1772000" />
       <workItem from="1681135940615" duration="943000" />
       <workItem from="1681136893197" duration="1715000" />
-      <workItem from="1681144243757" duration="2525000" />
+      <workItem from="1681144243757" duration="5735000" />
     </task>
     <task id="LOCAL-00001" summary="建檔">
       <created>1681136970355</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681144977554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="關於與經歷">
+      <created>1681146950710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681146950710</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="建檔" />
     <MESSAGE value="icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="icon" />
+    <MESSAGE value="關於與經歷" />
+    <option name="LAST_COMMIT_MESSAGE" value="關於與經歷" />
   </component>
 </project>
